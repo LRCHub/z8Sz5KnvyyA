@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "Anniv.",
+  "base_artist": "Mwk",
+  "createdAt": "2026-03-04T04:44:48.221280Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Mon anniv'",
+      "artist": "Renaud",
+      "has_synced": false,
+      "path": "select/01_Mon_anniv'_Renaud.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Anniv.",
+      "artist": "Mwk/初音ミク",
+      "has_synced": false,
+      "path": "select/02_Anniv._Mwk_初音ミク.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "KI・ZU・NA ～10th Anniv. Ver.～",
+      "artist": "JAM Project",
+      "has_synced": false,
+      "path": "select/03_KI・ZU・NA_~10th_Anniv._Ver.~_JAM_Project.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "비와 당신 - 20th Anniv Version",
+      "artist": "노브레인",
+      "has_synced": false,
+      "path": "select/04_비와_당신_-_20th_Anniv_Version_노브레인.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "夜もすがら君想ふ (10th Anniv.)",
+      "artist": "TOKOTOKO feat.GUMI",
+      "has_synced": true,
+      "path": "select/05_夜もすがら君想ふ_(10th_Anniv.)_TOKOTOKO_feat.GUMI.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "夜もすがら君想ふ (10th Anniv.) - Yomosugara Kimi Omou (10th Anniv.) feat.GUMI SV (feat. GUMI SV)",
+      "artist": "TOKOTOKO(NishizawasanP)",
+      "has_synced": true,
+      "path": "select/06_夜もすがら君想ふ_(10th_Anniv.)_-_Yomosugara_Kimi_Omou_(10th_Anniv.)_feat.GUMI_SV_(feat.__TOKOTOKO(NishizawasanP).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "HAPPY HAPPY BIRTHDAY - 25th Anniv. Mix",
+      "artist": "DREAMS COME TRUE",
+      "has_synced": true,
+      "path": "select/07_HAPPY_HAPPY_BIRTHDAY_-_25th_Anniv._Mix_DREAMS_COME_TRUE.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "夜もすがら君想ふ (10th Anniv.) feat.GUMI SV",
+      "artist": "TOKOTOKO",
+      "has_synced": true,
+      "path": "select/08_夜もすがら君想ふ_(10th_Anniv.)_feat.GUMI_SV_TOKOTOKO.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "넌 내게 반했어 (20th Anniv Ver.)",
+      "artist": "노브레인",
+      "has_synced": true,
+      "path": "select/09_넌_내게_반했어_(20th_Anniv_Ver.)_노브레인.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "비와 당신 20th Anniv Version",
+      "artist": "노브레인 (NoBrain)",
+      "has_synced": false,
+      "path": "select/10_비와_당신_20th_Anniv_Version_노브레인_(NoBrain).txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Sora Ha Miteiru Live at LINE MUSIC 1st Anniv. SPECIAL",
+      "artist": "Little Glee Monster",
+      "has_synced": false,
+      "path": "select/11_Sora_Ha_Miteiru_Live_at_LINE_MUSIC_1st_Anniv._SPECIAL_Little_Glee_Monster.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Anniv.",
+      "artist": "Mwk",
+      "has_synced": false,
+      "path": "select/pl_01_Anniv._Mwk.txt"
+    }
+  ]
+}
